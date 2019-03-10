@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{C17947F3-BCE6-4A03-B2FC-AA22173A08D7}"
 	ProjectSection(SolutionItems) = preProject
 		Lib\Castle.Core.dll = Lib\Castle.Core.dll

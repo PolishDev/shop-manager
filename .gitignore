@@ -65,6 +65,7 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+*.cache
 
 # Visual Studio profiler
 *.psess
@@ -126,7 +127,6 @@ ClientBin/
 *.publishsettings
 modulesbin/
 tempbin/
-*build.force
 
 # EPiServer Site file (VPP)
 AppData/
