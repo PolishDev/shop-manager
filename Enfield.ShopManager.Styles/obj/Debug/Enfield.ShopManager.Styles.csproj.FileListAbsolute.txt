@@ -13,3 +13,8 @@ C:\Projects\Enfield\Enfield.ShopManager.Styles\bin\Enfield.ShopManager.Styles.pd
 C:\Projects\Enfield\Enfield.ShopManager.Styles\obj\Debug\Enfield.ShopManager.Styles.csprojResolveAssemblyReference.cache
 C:\Projects\Enfield\Enfield.ShopManager.Styles\obj\Debug\Enfield.ShopManager.Styles.dll
 C:\Projects\Enfield\Enfield.ShopManager.Styles\obj\Debug\Enfield.ShopManager.Styles.pdb
+C:\Users\Administrator\shop-manager\Enfield.ShopManager.Styles\bin\Enfield.ShopManager.Styles.dll.config
+C:\Users\Administrator\shop-manager\Enfield.ShopManager.Styles\bin\Enfield.ShopManager.Styles.dll
+C:\Users\Administrator\shop-manager\Enfield.ShopManager.Styles\bin\Enfield.ShopManager.Styles.pdb
+C:\Users\Administrator\shop-manager\Enfield.ShopManager.Styles\obj\Debug\Enfield.ShopManager.Styles.dll
+C:\Users\Administrator\shop-manager\Enfield.ShopManager.Styles\obj\Debug\Enfield.ShopManager.Styles.pdb
